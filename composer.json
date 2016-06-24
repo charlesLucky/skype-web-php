@@ -1,6 +1,6 @@
 {
-    "name": "mosvov/skype-web-php",
-    "version": "0.0.9",
+    "name": "gustavosf/skype-web-php",
+    "version": "0.1",
     "minimum-stability": "dev",
     "description": "PHP client for Skype Web API",
     "license": "MIT",
@@ -8,6 +8,10 @@
         {
             "name": "volodymyr.m",
             "email": "mosvov@gmail.com"
+        },
+        {
+            "name": "gustavosf",
+            "email": "gustavosf@gmail.com"
         }
     ],
     "require": {
